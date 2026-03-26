@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspawan-04&label=Profile%20views&color=0e75b6&style=flat" alt="itspawan-04" /> </p>
 
-- 👨‍💻 All of my projects are available at (https://itspawan-04-portfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at https://itspawan-04-portfolio.vercel.app/
 
-- 📫 How to reach me **https://www.pawankumar.me/#contact**
+- 📫 How to reach me **https://itspawan-04-portfolio.vercel.app/#contact**
 
-- 📄 Know about my experiences [https://www.pawankumar.me/Images/RESUME_Pawan.pdf](https://www.pawankumar.me/Images/RESUME_Pawan.pdf)
+- 📄 Know about my experiences https://itspawan-04-portfolio.vercel.app/Images/RESUME_Pawan.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
